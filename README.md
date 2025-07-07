@@ -11,8 +11,6 @@
 - 🖼️ **Custom Card Images** – Pinterest-style card designs
 - 🌐 **Deployed on Vercel**
 
----
-
 ## 🚀 Features
 
 - 📝 **Enter a topic** to receive related quotes (e.g. success, growth)
@@ -21,8 +19,6 @@
 - 🎯 **Home icon** navigation at top left
 - 🧠 **Smart fallback messages** if no quotes are found
 - 📱 **Responsive design** for mobile and desktop
-
----
 
 ## 🧪 Try It Live
 
