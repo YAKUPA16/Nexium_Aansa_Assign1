@@ -24,3 +24,18 @@
 
 🔗 [Click here to view the deployed app](https://nexium-aansa-assign1.vercel.app)
 
+## 📦 How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/nexium-aansa-assign1.git
+
+# Go into the project
+cd nexium-aansa-assign1
+
+# Install dependencies
+pnpm install
+
+# Start the dev server
+pnpm dev
+
